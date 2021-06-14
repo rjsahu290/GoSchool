@@ -9,4 +9,6 @@ func main() {
 	if s < 5 {
 		fmt.Println("num is smaller than 5")
 	}
+
+	fmt.Println("I was added at last")
 }
